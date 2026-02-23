@@ -1,0 +1,1013 @@
+1771881227.561 10359 24067 24067 I om.teskann.qua: Using CollectorTypeCC GC.
+1771881227.573 10359 24067 24067 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+1771881227.585 10359 24067 24067 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10359; state: ENABLED
+1771881227.595 10359 24067 24067 D nativeloader: Configuring clns-4 for other apk /data/app/~~GGrZqOGq6lr37fd3yHKRlQ==/com.teskann.quax-ZamnY50wb43GJZbl9iovxg==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~GGrZqOGq6lr37fd3yHKRlQ==/com.teskann.quax-ZamnY50wb43GJZbl9iovxg==/lib/arm64:/data/app/~~GGrZqOGq6lr37fd3yHKRlQ==/com.teskann.quax-ZamnY50wb43GJZbl9iovxg==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.teskann.quax
+1771881227.606 10359 24067 24067 I Perf    : Connecting to perf service.
+1771881227.609 10359 24067 24067 V GraphicsEnvironment: ANGLE Developer option for 'com.teskann.quax' set to: 'default'
+1771881227.609 10359 24067 24067 V GraphicsEnvironment: The updatable driver is turned off on this device.
+1771881227.610 10359 24067 24067 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+1771881227.610 10359 24067 24067 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+1771881227.610 10359 24067 24067 I MultiDex: VM with version 2.1.0 has multidex support
+1771881227.610 10359 24067 24067 I MultiDex: Installing application
+1771881227.610 10359 24067 24067 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+1771881227.635 10359 24067 24108 D nativeloader: Load /data/app/~~GGrZqOGq6lr37fd3yHKRlQ==/com.teskann.quax-ZamnY50wb43GJZbl9iovxg==/base.apk!/lib/arm64-v8a/libflutter.so using class loader ns clns-4 (caller=/data/app/~~GGrZqOGq6lr37fd3yHKRlQ==/com.teskann.quax-ZamnY50wb43GJZbl9iovxg==/base.apk): ok
+1771881227.746 10359 24067 24067 I flutter : [IMPORTANT:flutter/shell/common/shell.cc(527)] [Action Required]: Impeller opt-out deprecated.
+1771881227.746 10359 24067 24067 I flutter :     The application opted out of Impeller by either using the
+1771881227.746 10359 24067 24067 I flutter :     `--no-enable-impeller` flag or the
+1771881227.746 10359 24067 24067 I flutter :     `io.flutter.embedding.android.EnableImpeller` `AndroidManifest.xml` entry.
+1771881227.746 10359 24067 24067 I flutter :     These options are going to go away in an upcoming Flutter release. Remove
+1771881227.746 10359 24067 24067 I flutter :     the explicit opt-out. If you need to opt-out, please report a bug describing
+1771881227.746 10359 24067 24067 I flutter :     the issue.
+1771881227.746 10359 24067 24067 I flutter :     https://github.com/flutter/flutter/issues/new?template=02_bug.yml
+1771881227.746 10359 24067 24067 I AdrenoGLES-0: QUALCOMM build                   : db3d445dbc, Ia06b22fa1a
+1771881227.746 10359 24067 24067 I AdrenoGLES-0: Build Date                       : 10/04/21
+1771881227.746 10359 24067 24067 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.32.02.16
+1771881227.746 10359 24067 24067 I AdrenoGLES-0: Local Branch                     :
+1771881227.746 10359 24067 24067 I AdrenoGLES-0: Remote Branch                    :
+1771881227.746 10359 24067 24067 I AdrenoGLES-0: Remote Branch                    :
+1771881227.746 10359 24067 24067 I AdrenoGLES-0: Reconstruct Branch               :
+1771881227.746 10359 24067 24067 I AdrenoGLES-0: Build Config                     : S P 10.0.7 AArch64
+1771881227.746 10359 24067 24067 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+1771881227.749 10359 24067 24067 I AdrenoGLES-0: PFP: 0x016dd093, ME: 0x00000000
+1771881227.797 10359 24067 24067 D com.llfbandit.app_links: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.teskann.quax/.MainActivity bnds=[204,1738][372,1977] }
+1771881227.798 10359 24067 24067 D FlutterFileDialogPlugin: onAttachedToEngine - IN
+1771881227.798 10359 24067 24067 D FlutterFileDialogPlugin: doOnAttachedToEngine - IN
+1771881227.798 10359 24067 24067 D FlutterFileDialogPlugin: doOnAttachedToEngine - OUT
+1771881227.798 10359 24067 24067 D FlutterFileDialogPlugin: onAttachedToEngine - OUT
+1771881227.798 10359 24067 24067 D FlutterFileDialogPlugin: onAttachedToActivity
+1771881227.798 10359 24067 24067 D FlutterFileDialogPlugin: doOnAttachedToActivity - IN
+1771881227.798 10359 24067 24067 D FlutterFileDialogPlugin: createFileDialog - IN
+1771881227.798 10359 24067 24067 D FlutterFileDialogPlugin: createFileDialog - OUT
+1771881227.798 10359 24067 24067 D FlutterFileDialogPlugin: doOnAttachedToActivity - OUT
+1771881227.844 10359 24067 24104 D hw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+1771881229.464 10359 24067 24067 I WebViewFactory: Loading com.google.android.webview version 145.0.7632.79 (code 763207903)
+1771881229.466 10359 24067 24067 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+1771881229.468 10359 24067 24067 D nativeloader: Configuring clns-5 for other apk /apex/com.android.extservices/javalib/android.ext.adservices.jar. target_sdk_version=36, uses_libraries=ALL, library_path=/data/app/~~bkZCXGeAYCjBzRo4VOj3_Q==/com.google.android.webview-WfOB6qJwH88GqTTeSGEGtQ==/lib/arm64:/data/app/~~bkZCXGeAYCjBzRo4VOj3_Q==/com.google.android.webview-WfOB6qJwH88GqTTeSGEGtQ==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand
+1771881229.468 10359 24067 24067 D nativeloader: Extending system_exposed_libraries: libvraudio_client.qti.so:libbinauralrenderer_wrapper.qti.so:libhoaeffects.qti.so:libupdateprof.qti.so:libthermalclient.qti.so:libdiag_system.qti.so:libqape.qti.so:libqesdk_ndk_platform.qti.so:liblistenjni.qti.so:libMiscTAApi.sony.so
+1771881229.469 10359 24067 24067 D nativeloader: InitApexLibraries:
+1771881229.469 10359 24067 24067 D nativeloader:   com_android_appsearch: libicing.so
+1771881229.469 10359 24067 24067 D nativeloader:   com_android_art: libartservice.so
+1771881229.469 10359 24067 24067 D nativeloader:   com_android_conscrypt: libjavacrypto.so
+1771881229.469 10359 24067 24067 D nativeloader:   com_android_extservices: libtflite_support_classifiers_native.so
+1771881229.469 10359 24067 24067 D nativeloader:   com_android_mediaprovider: libpdfclient.so
+1771881229.469 10359 24067 24067 D nativeloader:   com_android_os_statsd: libstats_jni.so
+1771881229.469 10359 24067 24067 D nativeloader:   com_android_tethering: libandroid_net_connectivity_com_android_net_module_util_jni.so:libandroid_net_connectivity_com_android_net_module_util_jni_CommonConnectivityJni.so:libframework-connectivity-jni.so:libframework-connectivity-tiramisu-jni.so:libmainlinecronet.144.0.7500.8.so:libservice-connectivity.so:libservice-thread-jni.so:stable_cronet_libcrypto.so
+1771881229.469 10359 24067 24067 D nativeloader:   com_android_wifi: libservice-wifi-jni.so
+1771881229.471 10359 24067 24067 D nativeloader: Configuring clns-6 for other apk /data/app/~~bkZCXGeAYCjBzRo4VOj3_Q==/com.google.android.webview-WfOB6qJwH88GqTTeSGEGtQ==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~bkZCXGeAYCjBzRo4VOj3_Q==/com.google.android.webview-WfOB6qJwH88GqTTeSGEGtQ==/lib/arm64:/data/app/~~bkZCXGeAYCjBzRo4VOj3_Q==/com.google.android.webview-WfOB6qJwH88GqTTeSGEGtQ==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand
+1771881229.479 10359 24067 24067 I cr_WVCFactoryProvider: version=145.0.7632.79 (763207903) minSdkVersion=29 multiprocess=true packageId=127 splits=<none>
+1771881229.481 10359 24067 24067 D nativeloader: Load /data/app/~~bkZCXGeAYCjBzRo4VOj3_Q==/com.google.android.webview-WfOB6qJwH88GqTTeSGEGtQ==/base.apk!/lib/arm64-v8a/libwebviewchromium.so using class loader ns clns-6 (caller=/data/app/~~bkZCXGeAYCjBzRo4VOj3_Q==/com.google.android.webview-WfOB6qJwH88GqTTeSGEGtQ==/base.apk): ok
+1771881229.482 10359 24067 24067 D nativeloader: Load /system/lib64/libwebviewchromium_plat_support.so using class loader ns clns-6 (caller=/data/app/~~bkZCXGeAYCjBzRo4VOj3_Q==/com.google.android.webview-WfOB6qJwH88GqTTeSGEGtQ==/base.apk): ok
+1771881229.482 10359 24067 24067 I cr_WVCFactoryProvider: WebView package downgraded from 769000003 to 763207903; deleting contents of /data/user/0/com.teskann.quax/app_webview
+1771881229.530 10359 24067 24350 I chromium: [0224/061349.527921:INFO:android_webview/browser/variations/variations_seed_loader.cc:67] Failed to open file for reading.: No such file or directory (2)
+1771881229.530 10359 24067 24350 I chromium: [0224/061349.530837:INFO:android_webview/browser/variations/variations_seed_loader.cc:67] Failed to open file for reading.: No such file or directory (2)
+1771881229.542 10359 24067 24067 I cr_LibraryLoader: Successfully loaded native library
+1771881229.547 10359 24067 24067 I cr_CachingUmaRecorder: Flushed 18 samples from 18 histograms, 0 samples were dropped.
+1771881229.549 10359 24067 24067 I cr_ChildProcLH: ScopedServiceBindingBatch.tryActivate: false
+1771881229.551 10359 24067 24067 I cr_CombinedPProvider: #registerProvider() provider:WV.qk@bb36b7d isPolicyCacheEnabled:false policyProvidersSize:0
+1771881229.552 10359 24067 24067 I cr_PolicyProvider: #setManagerAndSource() 0
+1771881229.556 10359 24067 24067 I cr_DisplayManager: Is Display Topology available: false
+1771881229.598 10359 24067 24067 I cr_CombinedPProvider: #linkNativeInternal() 1
+1771881229.598 10359 24067 24067 I cr_AppResProvider: #getApplicationRestrictionsFromUserManager() Bundle[EMPTY_PARCEL]
+1771881229.598 10359 24067 24067 I cr_PolicyProvider: #notifySettingsAvailable() 0
+1771881229.598 10359 24067 24067 I cr_CombinedPProvider: #onSettingsAvailable() 0
+1771881229.598 10359 24067 24067 I cr_CombinedPProvider: #flushPolicies()
+1771881229.631 10359 24067 24372 W libc    : Access denied finding property "ro.vendor.api_level"
+1771881229.638 10359 24067 24067 W chromium: [WARNING:android_webview/browser/network_service/net_helpers.cc:137] HTTP Cache size is: 20971520
+1771881229.651 10359 24067 24386 I CameraManagerGlobal: Connecting to camera service
+1771881229.662 10359 24067 24067 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10359; state: ENABLED
+1771881229.702 10359 24067 24376 W cr_media: BLUETOOTH_CONNECT permission is missing.
+1771881229.702 10359 24067 24376 W cr_media: getBluetoothAdapter() requires BLUETOOTH permission
+1771881229.702 10359 24067 24376 W cr_media: registerBluetoothIntentsIfNeeded: Requires BLUETOOTH permission
+1771881229.741 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881229.786 10359 24067 24384 W AudioCapabilities: Unsupported mime audio/alac
+1771881229.786 10359 24067 24384 W AudioCapabilities: Unsupported mime audio/dsd
+1771881229.786 10359 24067 24384 W AudioCapabilities: Unsupported mime audio/mha1
+1771881229.786 10359 24067 24384 W AudioCapabilities: Unsupported mime audio/mhm1
+1771881229.786 10359 24067 24384 W AudioCapabilities: Unsupported mime audio/mp4
+1771881229.786 10359 24067 24384 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+1771881229.786 10359 24067 24384 W VideoCapabilities: Unrecognized profile/level 0/3 for video/mpeg2
+1771881229.787 10359 24067 24384 W VideoCapabilities: Unrecognized profile/level 0/3 for video/mpeg2
+1771881229.787 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881229.798 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881230.238 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881230.952 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881230.962 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881230.968 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881230.972 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881230.982 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881230.993 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881230.998 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.007 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.015 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.025 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.033 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.042 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.050 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.058 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.068 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.075 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.083 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.092 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.101 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.112 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.117 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.127 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.135 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.144 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.151 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.160 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.168 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.176 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.185 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.193 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.202 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.209 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.307 10359 24067 24376 W cr_media: Requires MODIFY_AUDIO_SETTINGS and RECORD_AUDIO. No audio device will be available for recording
+1771881231.381 10359 24067 24389 D vulkan  : searching for layers in '/data/app/~~GGrZqOGq6lr37fd3yHKRlQ==/com.teskann.quax-ZamnY50wb43GJZbl9iovxg==/lib/arm64'
+1771881231.381 10359 24067 24389 D vulkan  : searching for layers in '/data/app/~~GGrZqOGq6lr37fd3yHKRlQ==/com.teskann.quax-ZamnY50wb43GJZbl9iovxg==/base.apk!/lib/arm64-v8a'
+1771881231.386 10359 24067 24389 I AdrenoVK-0: ===== BEGIN DUMP OF OVERRIDDEN SETTINGS =====
+1771881231.386 10359 24067 24389 I AdrenoVK-0: ===== END DUMP OF OVERRIDDEN SETTINGS =====
+1771881231.386 10359 24067 24389 I AdrenoVK-0: QUALCOMM build          : db3d445dbc, Ia06b22fa1a
+1771881231.386 10359 24067 24389 I AdrenoVK-0: Build Date              : 10/04/21
+1771881231.386 10359 24067 24389 I AdrenoVK-0: Shader Compiler Version : EV031.32.02.16
+1771881231.386 10359 24067 24389 I AdrenoVK-0: Local Branch            :
+1771881231.386 10359 24067 24389 I AdrenoVK-0: Remote Branch           :
+1771881231.386 10359 24067 24389 I AdrenoVK-0: Remote Branch           :
+1771881231.386 10359 24067 24389 I AdrenoVK-0: Reconstruct Branch      :
+1771881231.386 10359 24067 24389 I AdrenoVK-0: Build Config            : S P 10.0.7 AArch64
+1771881231.386 10359 24067 24389 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+1771881231.388 10359 24067 24389 W Dawn    : Warning: maxDynamicUniformBuffersPerPipelineLayout artificially reduced from 32 to 16 to fit dynamic offset allocation limit.
+1771881231.391 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.590 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.645 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.834 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.839 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.842 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.855 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.860 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.867 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.878 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.886 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.893 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.901 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.909 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.918 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.927 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.936 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.944 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.954 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.962 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.969 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.977 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.986 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881231.995 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.002 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.011 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.019 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.028 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.036 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.044 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.052 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.061 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.069 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.078 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.086 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.096 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.104 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.113 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.121 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.133 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.140 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.149 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.156 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.164 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.175 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.181 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.189 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.197 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.206 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.213 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.221 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.230 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.238 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.246 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.255 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.263 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.272 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.280 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.289 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.297 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.307 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.318 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.325 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.331 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.339 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.349 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.357 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.365 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.373 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.381 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.390 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.398 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.406 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.415 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.423 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.431 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.440 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.448 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.457 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.465 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.474 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.482 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.490 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.499 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.507 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.516 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.524 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.533 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.541 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.549 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.558 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.566 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.575 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.583 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.592 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.600 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.609 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.617 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.626 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.635 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.642 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.651 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.659 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.668 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.676 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.685 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.693 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.701 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.710 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.718 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.726 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.735 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.743 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.752 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.760 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.768 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.777 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.785 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.795 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.802 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.811 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.820 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.830 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.836 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.845 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.853 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.861 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.870 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.879 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.887 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.895 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.903 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.912 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.920 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.929 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.937 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.946 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.954 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.962 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.972 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.980 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.988 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881232.996 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.005 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.013 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.021 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.030 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.038 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.047 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.055 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.063 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.072 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.080 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.089 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.097 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.106 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.114 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.119 10359 24067 24524 D ProfileInstaller: Skipping profile installation for com.teskann.quax
+1771881233.123 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.131 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.140 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.148 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.156 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.165 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.173 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.181 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.190 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.198 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.209 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.215 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.224 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.325 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.335 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.342 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.350 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.359 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.367 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.375 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.384 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.393 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.401 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.409 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.418 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.426 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.435 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.445 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.451 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.460 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.468 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.477 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.485 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.493 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.502 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.510 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.518 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.527 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.535 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.544 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.557 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.561 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.569 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.577 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.586 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.594 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.603 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.611 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.621 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.628 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.637 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.645 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.653 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.662 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.670 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.678 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.687 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.695 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.704 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.712 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.722 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.729 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.737 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.746 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.754 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.763 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.771 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.779 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.795 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.798 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.805 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.813 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.823 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.832 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.839 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.847 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.857 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.864 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.873 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.881 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.890 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.898 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.907 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.915 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881233.947 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881234.042 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881234.177 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881234.182 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881234.935 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881234.942 10359 24067 24067 I AssistStructure: Flattened final assist data: 1720 bytes, containing 1 windows, 4 views
+1771881234.948 10359 24067 24376 I AAudio  : AAudioStreamBuilder_openStream() called ----------------------------------------
+1771881234.948 10359 24067 24376 I AudioStreamBuilder: rate   =  48000, channels  = 2, format   = 5, sharing = SH, dir = OUTPUT
+1771881234.948 10359 24067 24376 I AudioStreamBuilder: device =      0, sessionId = -1, perfMode = 12, callback: ON with frames = 192
+1771881234.948 10359 24067 24376 I AudioStreamBuilder: usage  =      1, contentType = 0, inputPreset = 0, allowedCapturePolicy = 0
+1771881234.948 10359 24067 24376 I AudioStreamBuilder: privacy sensitive = false
+1771881234.948 10359 24067 24376 I AudioStreamBuilder: opPackageName = (null)
+1771881234.948 10359 24067 24376 I AudioStreamBuilder: attributionTag = (null)
+1771881234.948 10359 24067 24376 D om.teskann.qua: PlayerBase::PlayerBase()
+1771881234.950 10359 24067 24067 D InputMethodManager: showSoftInput() view=X2.Z{1183e1d VFEDHVC.. .F...... 0,0-1080,2204 aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+1771881234.957 10359 24067 24376 D om.teskann.qua: PlayerBase::PlayerBase()
+1771881234.958 10359 24067 24376 D AudioStreamInternal_Client: ~AudioStreamInternal() 0xb400006f98a5ec30 called
+1771881234.958 10359 24067 24376 D AAudioStream: ~AudioStream(s#1) mPlayerBase strongCount = 1
+1771881234.958 10359 24067 24376 D om.teskann.qua: PlayerBase::~PlayerBase()
+1771881234.958 10359 24067 24376 D AudioStreamTrack: open(), request notificationFrames = -8, frameCount = 0
+1771881234.968 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881234.984 10359 24067 24376 I AudioTrack: createTrack_l(-45243): AUDIO_OUTPUT_FLAG_FAST successful; frameCount 0 -> 1536
+1771881234.985 10359 24067 24376 D AAudioStream: setState(s#2) from 0 to 2
+1771881234.988 10359 24067 24376 D AudioStreamTrack: open() flags changed from 0x00000104 to 0x00000004
+1771881234.989 10359 24067 24376 I AAudio  : AAudioStreamBuilder_openStream() returns 0 = AAUDIO_OK for s#2 ----------------
+1771881234.991 10359 24067 24376 D AAudio  : AAudioStream_requestStart(s#2) called --------------
+1771881234.991 10359 24067 24376 D AAudioStream: setState(s#2) from 2 to 3
+1771881235.002 10359 24067 24451 D AudioStreamLegacy: onAudioDeviceUpdate(deviceId = 108)
+1771881235.002 10359 24067 24376 D AAudio  : AAudioStream_requestStart(s#2) returned 0 ---------
+1771881235.011 10359 24067 24067 D InsetsController: show(ime(), fromIme=true)
+1771881235.049 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881235.064 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881235.095 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881235.103 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881235.129 10359 24067 24594 D AAudioStream: setState(s#2) from 3 to 4
+1771881235.463 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881235.954 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881236.269 10359 24067 24067 I cr_A11yState: Enabled accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, com.nll.helper/.support.AccessibilityCallRecordingService, com.sonymobile.assist/.actions.service.appmonitor.AppsMonitorService, org.kde.kdeconnect_tp/org.kde.kdeconnect.Plugins.MouseReceiverPlugin.MouseReceiverService, rk.android.app.lockscreen/.service.LockAccessibilityService, xyz.ivaniskandar.shouko/.service.TadanoAccessibilityService]
+1771881236.269 10359 24067 24067 I cr_A11yState: Running accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, rk.android.app.lockscreen/.service.LockAccessibilityService]
+1771881236.269 10359 24067 24067 I cr_A11yState: Will check again after 250 milliseconds.
+1771881236.453 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881236.526 10359 24067 24067 I cr_A11yState: Enabled accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, com.nll.helper/.support.AccessibilityCallRecordingService, com.sonymobile.assist/.actions.service.appmonitor.AppsMonitorService, org.kde.kdeconnect_tp/org.kde.kdeconnect.Plugins.MouseReceiverPlugin.MouseReceiverService, rk.android.app.lockscreen/.service.LockAccessibilityService, xyz.ivaniskandar.shouko/.service.TadanoAccessibilityService]
+1771881236.526 10359 24067 24067 I cr_A11yState: Running accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, rk.android.app.lockscreen/.service.LockAccessibilityService]
+1771881236.526 10359 24067 24067 I cr_A11yState: Will check again after 500 milliseconds.
+1771881236.962 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.036 10359 24067 24067 I cr_A11yState: Enabled accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, com.nll.helper/.support.AccessibilityCallRecordingService, com.sonymobile.assist/.actions.service.appmonitor.AppsMonitorService, org.kde.kdeconnect_tp/org.kde.kdeconnect.Plugins.MouseReceiverPlugin.MouseReceiverService, rk.android.app.lockscreen/.service.LockAccessibilityService, xyz.ivaniskandar.shouko/.service.TadanoAccessibilityService]
+1771881237.036 10359 24067 24067 I cr_A11yState: Running accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, rk.android.app.lockscreen/.service.LockAccessibilityService]
+1771881237.036 10359 24067 24067 I cr_A11yState: Will check again after 1000 milliseconds.
+1771881237.204 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.630 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.635 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.648 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.656 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.664 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.675 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.683 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.694 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.699 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.706 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.854 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.862 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.871 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.904 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.911 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.916 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.924 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.933 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.942 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.952 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.958 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.967 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.975 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.983 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881237.993 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.000 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.009 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.017 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.026 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.034 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.036 10359 24067 24067 I cr_A11yState: Enabled accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, com.nll.helper/.support.AccessibilityCallRecordingService, com.sonymobile.assist/.actions.service.appmonitor.AppsMonitorService, org.kde.kdeconnect_tp/org.kde.kdeconnect.Plugins.MouseReceiverPlugin.MouseReceiverService, rk.android.app.lockscreen/.service.LockAccessibilityService, xyz.ivaniskandar.shouko/.service.TadanoAccessibilityService]
+1771881238.036 10359 24067 24067 I cr_A11yState: Running accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, rk.android.app.lockscreen/.service.LockAccessibilityService]
+1771881238.036 10359 24067 24067 I cr_A11yState: Will check again after 2000 milliseconds.
+1771881238.042 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.051 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.060 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.068 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.076 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.084 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.093 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.101 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.110 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.118 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.126 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.135 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.143 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.154 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.162 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.169 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.177 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.186 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.194 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.202 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.211 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.219 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.228 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.236 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.249 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.253 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.270 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.278 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.287 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.295 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.303 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.312 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.321 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.329 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.340 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.348 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.354 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.363 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.371 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.379 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.388 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.396 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.406 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.413 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.423 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.432 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.440 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.447 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.456 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.464 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.476 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881238.488 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.278 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.282 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.300 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.307 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.315 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.322 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.332 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.340 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.353 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.366 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.374 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.382 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.390 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.399 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.407 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.416 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.424 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.432 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.441 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.449 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.458 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.467 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.475 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.483 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.491 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.500 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.510 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.517 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.525 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.534 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.542 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.551 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.559 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.567 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.576 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.584 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.593 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.602 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.610 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.618 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.626 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.635 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.643 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.652 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.660 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.668 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.677 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.686 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.694 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.702 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.711 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.720 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.728 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.736 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.744 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.753 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.761 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.770 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.778 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.786 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.795 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.803 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.812 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.821 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.829 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.837 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.845 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.855 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.862 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.871 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.879 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.888 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.897 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.905 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.913 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.939 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.947 10359 24067 24067 D InputMethodManager: showSoftInput() view=X2.Z{1183e1d VFEDHVC.. .F...... 0,0-1080,2204 aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+1771881239.953 10359 24067 24067 I AssistStructure: Flattened final assist data: 2384 bytes, containing 1 windows, 5 views
+1771881239.983 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881239.984 10359 24067 24067 D InsetsController: show(ime(), fromIme=true)
+1771881240.004 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881240.011 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881240.037 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881240.039 10359 24067 24067 I cr_A11yState: Enabled accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, com.nll.helper/.support.AccessibilityCallRecordingService, com.sonymobile.assist/.actions.service.appmonitor.AppsMonitorService, org.kde.kdeconnect_tp/org.kde.kdeconnect.Plugins.MouseReceiverPlugin.MouseReceiverService, rk.android.app.lockscreen/.service.LockAccessibilityService, xyz.ivaniskandar.shouko/.service.TadanoAccessibilityService]
+1771881240.039 10359 24067 24067 I cr_A11yState: Running accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, rk.android.app.lockscreen/.service.LockAccessibilityService]
+1771881240.039 10359 24067 24067 I cr_A11yState: Will check again after 4000 milliseconds.
+1771881240.068 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881240.470 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881240.966 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881241.473 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881241.969 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881242.273 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881242.466 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881242.831 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881243.317 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881243.413 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881243.430 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881243.466 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.026 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.033 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.040 10359 24067 24067 I cr_A11yState: Enabled accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, com.nll.helper/.support.AccessibilityCallRecordingService, com.sonymobile.assist/.actions.service.appmonitor.AppsMonitorService, org.kde.kdeconnect_tp/org.kde.kdeconnect.Plugins.MouseReceiverPlugin.MouseReceiverService, rk.android.app.lockscreen/.service.LockAccessibilityService, xyz.ivaniskandar.shouko/.service.TadanoAccessibilityService]
+1771881244.040 10359 24067 24067 I cr_A11yState: Running accessibility services: [com.arlosoft.macrodroid/.triggers.services.MacroDroidAccessibilityServiceJellyBean, com.google.android.marvin.talkback/com.google.android.accessibility.accessibilitymenu.AccessibilityMenuService, rk.android.app.lockscreen/.service.LockAccessibilityService]
+1771881244.040 10359 24067 24067 I cr_A11yState: Max delay reached. Send information as is.
+1771881244.041 10359 24067 24067 I cr_A11yState: Informing listeners of changes.
+1771881244.041 10359 24067 24067 I cr_A11yState: New AccessibilityState: State{isComplexUserInteractionServiceEnabled=false, isTouchExplorationEnabled=false, isPerformGesturesEnabled=false, isAnyAccessibilityServiceEnabled=true, isAccessibilityToolPresent=true, isTextShowPasswordEnabled=false, isOnlyAutofillRunning=false, isOnlyPasswordManagersEnabled=false, isKnownScreenReaderEnabled=false}
+1771881244.051 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.058 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.075 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.083 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.092 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.100 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.110 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.119 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.193 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.201 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.210 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.218 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.227 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.235 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.244 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.252 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.260 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.269 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.277 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.285 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.294 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.302 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.311 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.319 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.328 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.336 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.345 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.353 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.362 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.370 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.378 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.387 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.395 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.404 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.412 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.420 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.429 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.437 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.446 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.455 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.463 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.471 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.479 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.488 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.496 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.505 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.513 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.521 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.530 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.538 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.547 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.557 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.564 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.572 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.580 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.589 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.597 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.606 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.614 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.623 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.631 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.639 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.648 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.656 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.665 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.673 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.682 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.691 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.699 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.708 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.716 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.724 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.733 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.741 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.751 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.758 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.768 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.775 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.783 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.791 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.800 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.809 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.817 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.825 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.835 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.842 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.850 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.859 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.867 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.877 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.884 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.893 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.901 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.909 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.918 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.927 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.935 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.943 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.952 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.960 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.968 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.976 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.985 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881244.994 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.002 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.011 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.020 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.028 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.038 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.068 10359 24067 24067 D InputMethodManager: showSoftInput() view=X2.Z{1183e1d VFEDHVC.. .F...... 0,0-1080,2204 aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+1771881245.071 10359 24067 24067 I AssistStructure: Flattened final assist data: 1532 bytes, containing 1 windows, 4 views
+1771881245.156 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.160 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.161 10359 24067 24067 D InsetsController: show(ime(), fromIme=true)
+1771881245.167 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.180 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.206 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.231 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.238 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881245.586 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881246.091 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881246.287 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881246.304 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881246.333 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881246.338 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881250.389 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881250.397 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881250.409 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881250.418 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881250.430 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881250.575 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.088 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.104 10359 24067 24067 D InputMethodManager: showSoftInput() view=X2.Z{1183e1d VFEDHVC.. .F...... 0,0-1080,2204 aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+1771881251.115 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.120 10359 24067 24067 D InsetsController: show(ime(), fromIme=true)
+1771881251.151 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.180 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.188 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.191 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.586 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.598 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.603 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.615 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.623 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.627 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.634 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.644 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.652 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.660 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.669 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.681 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.686 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.694 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.702 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.710 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.719 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.727 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.736 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.745 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.753 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.761 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.768 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.777 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.789 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.794 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.803 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.811 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.820 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.828 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.836 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.845 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881251.939 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881252.089 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881252.301 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881252.647 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881252.898 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881253.152 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881253.484 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881253.506 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881253.531 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881253.541 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881253.565 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.054 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.062 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.079 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.087 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.104 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.112 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.120 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.130 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.263 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.271 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.279 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.288 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.296 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.305 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.313 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.321 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.330 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.338 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.347 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.355 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.363 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.372 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.380 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.388 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.397 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.406 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.415 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.422 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.431 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.439 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.447 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.456 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.465 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.476 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.482 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.490 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.498 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.507 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.517 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.525 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.532 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.540 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.549 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.558 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.566 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.574 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.582 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.591 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.599 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.608 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.616 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.625 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.634 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.641 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.650 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.658 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.667 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.675 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.684 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.692 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.700 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.709 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.717 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.726 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.734 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.744 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.751 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.761 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.769 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.777 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.784 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.794 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.802 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.810 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.818 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.827 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.835 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.844 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.853 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.861 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.869 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.877 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.886 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.894 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.903 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.911 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.919 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.928 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.936 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.945 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.954 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.962 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.971 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.979 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.988 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881254.996 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.004 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.013 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.021 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.031 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.038 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.046 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.055 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.063 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.074 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.081 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.088 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.096 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.105 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.114 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.122 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.130 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.139 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.147 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.156 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.164 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.172 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.184 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.189 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.198 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.206 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.215 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.223 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.231 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.240 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.248 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.257 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.266 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.273 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.283 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.291 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.300 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.307 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.316 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.325 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.333 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.341 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.349 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.359 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.366 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.790 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.798 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.804 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.813 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.821 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.829 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.837 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.856 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.863 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.873 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.880 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.889 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.897 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.905 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.915 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.923 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.931 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.940 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.949 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.957 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.965 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.972 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.983 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881255.990 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.000 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.007 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.016 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.024 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.035 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.040 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.048 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.051 10359 24067 24376 D AAudio  : AAudioStream_requestStop(s#2) called
+1771881256.051 10359 24067 24376 D AAudioStream: setState(s#2) from 4 to 9
+1771881256.052 10359 24067 24376 D AudioTrack: stop(157): called with 1004736 frames delivered
+1771881256.053 10359 24067 24376 D AAudioStream: setState(s#2) from 9 to 10
+1771881256.057 10359 24067 25598 W cr_PlatformSensor: Should not get sensor events after PlatformSensorAndroid is destroyed.
+1771881256.057 10359 24067 25598 W cr_PlatformSensor: Should not get sensor events after PlatformSensorAndroid is destroyed.
+1771881256.057 10359 24067 25598 W cr_PlatformSensor: Should not get sensor events after PlatformSensorAndroid is destroyed.
+1771881256.063 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.073 10359 24067 25598 W cr_PlatformSensor: Should not get sensor events after PlatformSensorAndroid is destroyed.
+1771881256.073 10359 24067 25598 W cr_PlatformSensor: Should not get sensor events after PlatformSensorAndroid is destroyed.
+1771881256.078 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.082 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.090 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.099 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.108 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.117 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.126 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.133 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.143 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881256.151 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881257.134 10359 24067 24376 W cr_media: Requires MODIFY_AUDIO_SETTINGS and RECORD_AUDIO. No audio device will be available for recording
+1771881257.216 10359 24067 24389 I AdrenoVK-0: QUALCOMM build          : db3d445dbc, Ia06b22fa1a
+1771881257.216 10359 24067 24389 I AdrenoVK-0: Build Date              : 10/04/21
+1771881257.216 10359 24067 24389 I AdrenoVK-0: Shader Compiler Version : EV031.32.02.16
+1771881257.216 10359 24067 24389 I AdrenoVK-0: Local Branch            :
+1771881257.216 10359 24067 24389 I AdrenoVK-0: Remote Branch           :
+1771881257.216 10359 24067 24389 I AdrenoVK-0: Remote Branch           :
+1771881257.216 10359 24067 24389 I AdrenoVK-0: Reconstruct Branch      :
+1771881257.216 10359 24067 24389 I AdrenoVK-0: Build Config            : S P 10.0.7 AArch64
+1771881257.216 10359 24067 24389 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+1771881257.218 10359 24067 24389 W Dawn    : Warning: maxDynamicUniformBuffersPerPipelineLayout artificially reduced from 32 to 16 to fit dynamic offset allocation limit.
+1771881257.297 10359 24067 24104 E FrameEvents: updateAcquireFence: Did not find frame.
+1771881260.184 10359 24067 24380 W chromium: [WARNING:net/spdy/spdy_session.cc:3071] Received HEADERS for invalid stream 85
+1771881261.053 10359 24067 24376 D AAudio  : AAudioStream_requestStop(s#2) called
+1771881261.053 10359 24067 24376 D AAudio  : AAudioStream_close(s#2) called ---------------
+1771881261.053 10359 24067 24376 D AAudioStream: setState(s#2) from 10 to 11
+1771881261.056 10359 24067 24376 D AAudioStream: setState(s#2) from 11 to 12
+1771881261.056 10359 24067 24376 D AAudioStream: ~AudioStream(s#2) mPlayerBase strongCount = 2
+1771881261.056 10359 24067 24376 D AAudio  : AAudioStream_close(s#2) returned 0 ---------
+1771881263.646 10359 24067 24088 W om.teskann.qua: Cleared Reference was only reachable from finalizer (only reported once)
