@@ -1,0 +1,1431 @@
+ java -jar revanced-cli-6.0.0-all.jar list-patches -bp rvpatches-v6.2.1.rvp
+INFO: Index: 0
+Name: Export all activities
+Description: Makes all app activities exportable.
+Enabled: false
+
+Index: 1
+Name: Hide ADB status
+Description: Hides enabled development settings and/or ADB.
+Enabled: false
+
+Index: 2
+Name: Hide app icon
+Description: Hides the app icon from the Android launcher.
+Enabled: false
+
+Index: 3
+Name: Spoof build info
+Description: Spoofs the information about the current build.
+Enabled: false
+
+Index: 4
+Name: Hide mock location
+Description: Prevents the app from knowing the device location is being mocked by a third party app.
+Enabled: false
+
+Index: 5
+Name: Spoof SIM provider
+Description: Spoofs information about the SIM card provider.
+Enabled: false
+
+Index: 6
+Name: Spoof Wi-Fi connection
+Description: Spoofs an existing Wi-Fi connection.
+Enabled: false
+
+Index: 7
+Name: Custom network security
+Description: Allows trusting custom certificate authorities for a specific domain.
+Enabled: false
+
+Index: 8
+Name: Enable Android debugging
+Description: Enables Android debugging capabilities. This can slow down the app.
+Enabled: false
+
+Index: 9
+Name: Export internal data documents provider
+Description: Exports a documents provider that grants access to the internal data directory of this app to file managers and other apps that support the Storage Access Framework.
+Enabled: false
+
+Index: 10
+Name: Hex
+Description: Replaces a hexadecimal patterns of bytes of files in an APK.
+Enabled: false
+
+Index: 11
+Name: Predictive back gesture
+Description: Enables the predictive back gesture introduced on Android 13.
+Enabled: false
+
+Index: 12
+Name: Override certificate pinning
+Description: Overrides certificate pinning, allowing to inspect traffic via a proxy.
+Enabled: false
+
+Index: 13
+Name: Change package name
+Description: Appends ".revanced" to the package name by default. Changing the package name of the app can lead to unexpected issues.
+Enabled: false
+
+Index: 14
+Name: Disable Play Integrity
+Description: Prevents apps from using Play Integrity by pretending it is not available.
+Enabled: false
+
+Index: 15
+Name: Spoof Play Age Signals
+Description: Spoofs Google Play data about the user's age and verification status.
+Enabled: false
+
+Index: 16
+Name: Remove screen capture restriction
+Description: Removes the restriction of capturing audio from apps that normally wouldn't allow it.
+Enabled: false
+
+Index: 17
+Name: Prevent screenshot detection
+Description: Removes the registration of all screen capture callbacks. This prevents the app from detecting screenshots.
+Enabled: false
+
+Index: 18
+Name: Remove screenshot restriction
+Description: Removes the restriction of taking screenshots in apps that normally wouldn't allow it.
+Enabled: false
+
+Index: 19
+Name: Remove share targets
+Description: Removes share targets like directly sharing to a frequent contact.
+Enabled: false
+
+Index: 20
+Name: Enable ROM signature spoofing
+Description: Spoofs the signature via the manifest meta-data "fake-signature". This patch only works with ROMs that support signature spoofing.
+Enabled: false
+
+Index: 21
+Name: Spoof keystore security level
+Description: Forces apps to see Keymaster and Attestation security levels as 'StrongBox' (Level 2).
+Enabled: false
+
+Index: 22
+Name: Spoof root of trust
+Description: Spoofs device integrity states (Locked Bootloader, Verified OS) for apps that perform local certificate attestation.
+Enabled: false
+
+Index: 23
+Name: Set target SDK version 34
+Description: Changes the target SDK to version 34 (Android 14). For devices running Android 15+, this will disable edge-to-edge display.
+Enabled: false
+
+Index: 24
+Name: Change version code
+Description: Changes the version code of the app. This will turn off app store updates and allows downgrading an existing app install to an older app version.
+Enabled: false
+
+Index: 25
+Name: Always allow deep-linking
+Description: Open Amazon links, even if the app is not set to handle Amazon links.
+Enabled: true
+
+Index: 26
+Name: Hide ads
+Enabled: true
+
+Index: 27
+Name: Remove play limits
+Description: Disables purchase nagging and playback limits of not purchased tracks.
+Enabled: true
+
+Index: 28
+Name: Bypass root checks
+Description: Removes the restriction to use the app with root permissions or on a custom ROM.
+Enabled: true
+
+Index: 29
+Name: Remove ads
+Description: Removes pre-roll, pause and on-demand advertisements from SBS On Demand TV.
+Enabled: true
+
+Index: 30
+Name: Hide ads
+Enabled: true
+
+Index: 31
+Name: Hide ads
+Enabled: true
+
+Index: 32
+Name: Skip ads
+Description: Automatically skips ads.
+Enabled: true
+
+Index: 33
+Name: Disable ads
+Enabled: true
+
+Index: 34
+Name: Enable debug menu
+Enabled: false
+
+Index: 35
+Name: Skip energy recharge ads
+Description: Skips watching ads to recharge energy.
+Enabled: true
+
+Index: 36
+Name: Hide 'Sponsored Stories'
+Enabled: true
+
+Index: 37
+Name: Hide story ads
+Description: Hides the ads in the Facebook app stories.
+Enabled: true
+
+Index: 38
+Name: Remove bootloader detection
+Description: Removes the check for an unlocked bootloader.
+Enabled: true
+
+Index: 39
+Name: Remove root detection
+Description: Removes the check for root permissions and unlocked bootloader.
+Enabled: true
+
+Index: 40
+Name: Hide ads
+Enabled: true
+
+Index: 41
+Name: Hide ads
+Description: Hides sponsored ads.
+Enabled: true
+
+Index: 42
+Name: Force enable FreePhone
+Description: Enables the FreePhone menu in the navigation drawer even on devices that don't support eSIM.
+Enabled: true
+
+Index: 43
+Name: Hide Premium upgrade button
+Description: Hides the Premium upgrade button in the navigation drawer.
+Enabled: true
+
+Index: 44
+Name: Enable CustomTabs
+Description: Enables CustomTabs to open articles in your default browser.
+Enabled: true
+
+Index: 45
+Name: GmsCore support
+Description: Allows the app to work without root by using a different package name when patched using a GmsCore instead of Google Play Services.
+Enabled: true
+
+Index: 46
+Name: Enable DCIM folders backup control
+Description: Disables always on backup for the Camera and other DCIM folders, allowing you to control backup for each folder individually. This will make the app default to having no folders backed up.
+Enabled: false
+
+Index: 47
+Name: Spoof features
+Description: Spoofs the device to enable Google Pixel exclusive features, including unlimited storage.
+Enabled: true
+
+Index: 48
+Name: GmsCore support
+Description: Allows the app to work without root by using a different package name when patched using a GmsCore instead of Google Play Services.
+Enabled: true
+
+Index: 49
+Name: Remove device restrictions
+Description: Removes restrictions from using the app on any device. Requires mounting patched app over original.
+Enabled: true
+
+Index: 50
+Name: Disable ads
+Enabled: true
+
+Index: 51
+Name: Unlock pro
+Enabled: true
+
+Index: 52
+Name: Remove device integrity checks
+Description: Removes the check for root permissions and unlocked bootloader.
+Enabled: true
+
+Index: 53
+Name: Spoof signature
+Description: Spoofs the signature of the app.
+Enabled: true
+
+Index: 54
+Name: Hide ads
+Enabled: true
+
+Index: 55
+Name: Hide ads
+Enabled: true
+
+Index: 56
+Name: Limit feed to followed profiles
+Description: Filters the home feed to display only content from profiles you follow.
+Enabled: false
+
+Index: 57
+Name: Anonymous story viewing
+Description: View stories without sending any information to the server.
+Your view will not appear in the story viewers list.
+Note: Since no data is sent, a story you have already viewed may appear as new on another device.
+Enabled: false
+
+Index: 58
+Name: Hide explore feed
+Description: Hides posts and reels from the explore/search page.
+Enabled: false
+
+Index: 59
+Name: Hide highlights tray
+Description: Hides the highlights tray in profile section.
+Enabled: false
+
+Index: 60
+Name: Hide navigation buttons
+Description: Hides navigation bar buttons, such as the Reels and Create button.
+Enabled: false
+
+Index: 61
+Name: Hide Stories from Home
+Description: Hides Stories from the main page, by removing the buttons.
+Enabled: false
+
+Index: 62
+Name: Hide suggested content
+Description: Hides suggested stories, reels, threads and survey from feed (Suggested posts will still be shown).
+Enabled: false
+
+Index: 63
+Name: Enable developer menu
+Description: Enables the developer menu, which can be found at the bottom of settings menu with name 'Internal Settings'.
+
+It is recommended to use this patch with an alpha/beta Instagram release. Patching a stable release works, but the developer menu shows the developer flags as numbers and does not show a human readable description.
+Enabled: false
+
+Index: 64
+Name: Disable analytics
+Description: Disables analytics that are sent periodically.
+Enabled: true
+
+Index: 65
+Name: Open links externally
+Description: Changes links to always open in your external browser, instead of the in-app browser.
+Enabled: false
+
+Index: 66
+Name: Remove build expired popup
+Description: Removes the popup that appears after a while, when the app version ages.
+Enabled: true
+
+Index: 67
+Name: Change link sharing domain
+Description: Replaces the domain name of shared links.
+Enabled: false
+
+Index: 68
+Name: Sanitize sharing links
+Description: Removes the tracking query parameters from shared links.
+Enabled: true
+
+Index: 69
+Name: Disable Reels scrolling
+Description: Disables the endless scrolling behavior in Instagram Reels, preventing swiping to the next Reel. Note: On a clean install, the 'Tip' animation may appear but will stop on its own after a few seconds.
+Enabled: false
+
+Index: 70
+Name: Disable Reels auto-scroll
+Description: Removes the auto-scroll toggle and prevents Reels from scrolling automatically.
+Enabled: false
+
+Index: 71
+Name: Disable story auto flipping
+Description: Disable stories automatically flipping/skipping after some seconds.
+Enabled: false
+
+Index: 72
+Name: Enable location sticker redesign
+Description: Unlocks the redesigned location sticker with additional style options.
+Enabled: false
+
+Index: 73
+Name: Remove ads
+Enabled: true
+
+Index: 74
+Name: Hide ads
+Description: Hides sponsored ads and Google Ads. Also happens to disable Microsoft Clarity analytics.
+Enabled: true
+
+Index: 75
+Name: Hide Pur
+Description: Hides Pur (Ad Free Subscription) from Settings Menu.
+Enabled: true
+
+Index: 76
+Name: Hide ads
+Enabled: true
+
+Index: 77
+Name: Unlock app icons
+Enabled: true
+
+Index: 78
+Name: Disable mandatory login
+Enabled: true
+
+Index: 79
+Name: Unlock Premium
+Enabled: true
+
+Index: 80
+Name: Disable version check
+Description: Disables the server-side version check that prevents the app from starting.
+Enabled: true
+
+Index: 81
+Name: Unlock pro
+Enabled: true
+
+Index: 82
+Name: Hide inbox ads
+Description: Hides ads in inbox.
+Enabled: true
+
+Index: 83
+Name: Hide inbox subtabs
+Description: Hides Home and Channels tabs between active now tray and chats.
+Enabled: true
+
+Index: 84
+Name: Hide Facebook button
+Description: Hides the Facebook button in the top toolbar.
+Enabled: true
+
+Index: 85
+Name: Remove Meta AI
+Description: Removes UI elements related to Meta AI.
+Enabled: true
+
+Index: 86
+Name: Hide OneDrive migration
+Description: Hides the OneDrive migration prompt when opening Microsoft Office Lens.
+Enabled: true
+
+Index: 87
+Name: Force English locale
+Description: Forces wearable devices to use the English locale.
+Enabled: true
+
+Index: 88
+Name: Fix login
+Description: Fixes login for uncertified Mi Fitness app
+Enabled: true
+
+Index: 89
+Name: Hide music video ads
+Description: Adds an option to hide ads that appear while listening to or streaming music videos, podcasts, or songs.
+Enabled: true
+
+Index: 90
+Name: Enable exclusive audio playback
+Description: Enables the option to play audio without video.
+Enabled: true
+
+Index: 91
+Name: Permanent repeat
+Description: Adds an option to always repeat even if the playlist ends or another track is played.
+Enabled: true
+
+Index: 92
+Name: Custom branding
+Description: Adds options to change the app icon and app name. Branding cannot be changed for mounted (root) installations.
+Enabled: true
+
+Index: 93
+Name: Hide buttons
+Description: Adds options to hide the cast, history, notification, and search buttons.
+Enabled: true
+
+Index: 94
+Name: Hide category bar
+Description: Adds an option to hide the category bar at the top of the homepage.
+Enabled: true
+
+Index: 95
+Name: Hide layout components
+Description: Adds options to hide general layout components.
+Enabled: true
+
+Index: 96
+Name: Change miniplayer color
+Description: Adds an option to change the miniplayer background color to match the fullscreen player.
+Enabled: true
+
+Index: 97
+Name: Navigation bar
+Description: Adds options to hide navigation bar, labels and buttons.
+Enabled: true
+
+Index: 98
+Name: Hide 'Get Music Premium'
+Description: Adds an option to hide the "Get Music Premium" label in the settings and account menu.
+Enabled: true
+
+Index: 99
+Name: Theme
+Description: Adds options for theming and applies a custom background theme (dark background theme defaults to pure black).
+Enabled: true
+
+Index: 100
+Name: Unlock Android Auto Media Browser
+Description: Unlocks Android Auto Media Browser which enables the search function including speech to text.
+Enabled: true
+
+Index: 101
+Name: Force original audio
+Description: Adds an option to always use the original audio track.
+Enabled: true
+
+Index: 102
+Name: Remove background playback restrictions
+Description: Removes restrictions on background playback, including playing kids videos in the background.
+Enabled: true
+
+Index: 103
+Name: Enable debugging
+Description: Adds options for debugging and exporting ReVanced logs to the clipboard.
+Enabled: true
+
+Index: 104
+Name: Check watch history domain name resolution
+Description: Checks if the device DNS server is preventing user watch history from being saved.
+Enabled: true
+
+Index: 105
+Name: GmsCore support
+Description: Allows the app to work without root by using a different package name when patched using a GmsCore instead of Google Play Services.
+Enabled: true
+
+Index: 106
+Name: Sanitize sharing links
+Description: Removes the tracking query parameters from shared links.
+Enabled: true
+
+Index: 107
+Name: Spoof video streams
+Description: Adds options to spoof the client video streams to fix playback.
+Enabled: true
+
+Index: 108
+Name: Unlock pro
+Enabled: true
+
+Index: 109
+Name: Hide ads
+Description: Hides most of the ads across the app.
+Enabled: true
+
+Index: 110
+Name: Remove broadcasts restriction
+Description: Enables starting/stopping NetGuard via broadcasts.
+Enabled: true
+
+Index: 111
+Name: Show K1 token(s)
+Description: Shows the K1 authentication token(s) in a dialog and logs it to logcat for pairing with GadgetBridge without requiring root access. After installing this patch, pair your watch  with the Nothing X app and use the token from the dialog or logcat.
+Enabled: true
+
+Index: 112
+Name: Hide ads
+Description: Hide ads and sponsored articles in list pages and remove pre-roll ads on videos.
+Enabled: true
+
+Index: 113
+Name: Spoof certificate
+Description: Spoofs the X-Android-Cert header to allow push messages.
+Enabled: true
+
+Index: 114
+Name: Fix crash
+Description: Fixes a crash when opening a place.
+Enabled: true
+
+Index: 115
+Name: Remove root detection
+Description: Removes the check for root permissions and unlocked bootloader.
+Enabled: true
+
+Index: 116
+Name: Disable Audio Ads
+Enabled: true
+
+Index: 117
+Name: Enable unlimited skips
+Enabled: true
+
+Index: 118
+Name: Hide ads
+Description: Hides all video ads.
+Enabled: true
+
+Index: 119
+Name: Spoof device ID
+Description: Spoofs device ID to mitigate manual bans by developers.
+Enabled: true
+
+Index: 120
+Name: Hide update popup
+Description: Prevents the update popup from showing up.
+Enabled: true
+
+Index: 121
+Name: Unlock plus
+Enabled: true
+
+Index: 122
+Name: Bypass login
+Description: Allows the use of the app after its discontinuation.
+Enabled: true
+
+Index: 123
+Name: Spoof Android device ID
+Description: Spoofs the Android device ID used by the app for account authentication.This can be used to copy the account to another device.
+Enabled: false
+
+Index: 124
+Name: Disable tracking
+Description: Disables tracking by replacing tracking URLs with example.com.
+Enabled: true
+
+Index: 125
+Name: Hide ads
+Enabled: true
+
+Index: 126
+Name: Skip ads
+Description: Automatically skips video stream ads.
+Enabled: true
+
+Index: 127
+Name: Rename shared permissions
+Description: Rename certain permissions shared across Amazon apps. Applying this patch can fix installation errors, but can also break features in certain apps.
+Enabled: false
+
+Index: 128
+Name: Playback speed
+Description: Adds playback speed controls to the video player.
+Enabled: true
+
+Index: 129
+Name: Remove free accounts limit
+Description: Removes the limit for maximum free accounts logged in.
+Enabled: true
+
+Index: 130
+Name: Remove 'Sent from' signature
+Description: Removes the 'Sent from Proton Mail mobile' signature from emails.
+Enabled: true
+
+Index: 131
+Name: Remove delay
+Description: Removes the delay when changing servers.
+Enabled: true
+
+Index: 132
+Name: Unlock split tunneling
+Enabled: true
+
+Index: 133
+Name: Hide purchase reminder
+Description: Hides the popup that reminds you to purchase the app.
+Enabled: true
+
+Index: 134
+Name: Hide ads
+Enabled: true
+
+Index: 135
+Name: Spoof client
+Description: Restores functionality of the app by using custom client ID.
+Enabled: true
+
+Index: 136
+Name: Fix Redgifs API
+Enabled: true
+
+Index: 137
+Name: Disable ads
+Enabled: true
+
+Index: 138
+Name: Spoof client
+Description: Restores functionality of the app by using custom client ID.
+Enabled: true
+
+Index: 139
+Name: Fix missing audio in video downloads
+Description: Fixes audio missing in videos downloaded from v.redd.it.
+Enabled: true
+
+Index: 140
+Name: Fix Redgifs API
+Enabled: true
+
+Index: 141
+Name: Fix /s/ links
+Enabled: true
+
+Index: 142
+Name: Spoof client
+Description: Restores functionality of the app by using custom client ID.
+Enabled: true
+
+Index: 143
+Name: Unlock subscription
+Description: Unlocks the subscription feature but requires a custom client ID.
+Enabled: true
+
+Index: 144
+Name: Disable ads
+Enabled: true
+
+Index: 145
+Name: Spoof client
+Description: Restores functionality of the app by using custom client ID.
+Enabled: true
+
+Index: 146
+Name: Spoof client
+Description: Restores functionality of the app by using custom client ID.
+Enabled: true
+
+Index: 147
+Name: Spoof client
+Description: Restores functionality of the app by using custom client ID.
+Enabled: true
+
+Index: 148
+Name: Spoof client
+Description: Restores functionality of the app by using custom client ID.
+Enabled: true
+
+Index: 149
+Name: Disable ads
+Enabled: true
+
+Index: 150
+Name: Disable ads
+Enabled: true
+
+Index: 151
+Name: Disable Sync for Lemmy bottom sheet
+Description: Disables the bottom sheet at the startup that asks you to signup to "Sync for Lemmy".
+Enabled: true
+
+Index: 152
+Name: Spoof client
+Description: Restores functionality of the app by using custom client ID.
+Enabled: true
+
+Index: 153
+Name: Fix Redgifs API
+Enabled: true
+
+Index: 154
+Name: Fix /s/ links
+Enabled: true
+
+Index: 155
+Name: Fix post thumbnails
+Description: Fixes loading post thumbnails by correcting their URLs.
+Enabled: true
+
+Index: 156
+Name: Use /user/ endpoint
+Description: Replaces the deprecated endpoint for viewing user profiles /u with /user, that used to fix a bug.
+Enabled: false
+
+Index: 157
+Name: Fix video downloads
+Description: Fixes a bug in Sync's MPD parser resulting in only the audio-track being saved.
+Enabled: true
+
+Index: 158
+Name: Hide recommended communities shelf
+Description: Hides the recommended communities shelves in subreddits.
+Enabled: true
+
+Index: 159
+Name: Remove subreddit dialogs
+Description: Removes the NSFW community warning and notifications suggestion dialogs by dismissing them automatically.
+Enabled: true
+
+Index: 160
+Name: Disable screenshot popup
+Description: Disables the popup that shows up when taking a screenshot.
+Enabled: true
+
+Index: 161
+Name: Hide 'Trending Today' shelf
+Description: Hides the 'Trending Today' shelf from search suggestions.
+Enabled: true
+
+Index: 162
+Name: Open links directly
+Description: Opens URLs directly without the redirect page.
+Enabled: true
+
+Index: 163
+Name: Spoof signature
+Description: Spoofs the signature of the app to fix issues with receiving notifications.
+Enabled: true
+
+Index: 164
+Name: Sanitize sharing links
+Description: Removes the tracking query parameters from shared links.
+Enabled: true
+
+Index: 165
+Name: Fix crashes
+Description: Prevents the app from crashing because of missing system permissions.
+Enabled: true
+
+Index: 166
+Name: Bypass device checks
+Description: Removes firmware and region blacklisting. This patch will still not allow the app to run on devices that do not have the required hardware.
+Enabled: true
+
+Index: 167
+Name: Remove root detection
+Description: Removes the check for root permissions and unlocked bootloader.
+Enabled: true
+
+Index: 168
+Name: Disable Pairip license check
+Description: Disables Play Integrity API (Pairip) client-side license check.
+Enabled: false
+
+Index: 169
+Name: Disable Sentry telemetry
+Description: Disables Sentry telemetry. See https://sentry.io/for/android/ for more information.
+Enabled: false
+
+Index: 170
+Name: Remove file size limit
+Description: Allows opening files larger than 2 MB in the text editor.
+Enabled: true
+
+Index: 171
+Name: Remove badge tab
+Description: Removes the badge tab from the activity tab.
+Enabled: true
+
+Index: 172
+Name: Remove notification badge
+Description: Removes the red notification badge from the activity tab.
+Enabled: true
+
+Index: 173
+Name: Hide ads
+Enabled: true
+
+Index: 174
+Name: Disable telemetry
+Description: Disables SoundCloud's telemetry system.
+Enabled: true
+
+Index: 175
+Name: Enable offline sync
+Enabled: true
+
+Index: 176
+Name: Custom theme
+Description: Applies a custom theme (defaults to amoled black)
+Enabled: false
+
+Index: 177
+Name: Fix Facebook login
+Description: Fix logging in with Facebook when the app is patched by always opening the login in a web browser window.
+Enabled: true
+
+Index: 178
+Name: Change lyrics provider
+Description: Changes the lyrics provider to a custom one.
+Enabled: false
+
+Index: 179
+Name: Sanitize sharing links
+Description: Removes the tracking query parameters from shared links.
+Enabled: true
+
+Index: 180
+Name: Fix third party launchers widgets
+Description: Fixes Spotify widgets not working in third party launchers, like Nova Launcher.
+Enabled: true
+
+Index: 181
+Name: Hide offers tab
+Enabled: true
+
+Index: 182
+Name: Hide story bubbles
+Enabled: true
+
+Index: 183
+Name: Hide distractions
+Description: Hides elements that are not essential.
+Enabled: true
+
+Index: 184
+Name: Add 'Give Kudos' button to 'Group Activity'
+Description: Adds a button that triggers the same action as shaking your phone would.
+Enabled: true
+
+Index: 185
+Name: Add media download
+Description: Extends the full-screen media viewer menu with items to copy or open their URLs or download them directly.
+Enabled: true
+
+Index: 186
+Name: Overwrite media upload parameters
+Description: Overwrites the compression, resize and trim media (images and videos) parameters returned by Strava's server before upload.
+Enabled: true
+
+Index: 187
+Name: Enable password login
+Description: Re-enables password login after having used an OTP code.
+Enabled: true
+
+Index: 188
+Name: Block Snowplow tracking
+Description: Blocks Snowplow analytics. See https://snowplow.io for more information.
+Enabled: true
+
+Index: 189
+Name: Disable Quick Edit
+Description: Prevents the Quick Edit prompt from popping up.
+Enabled: true
+
+Index: 190
+Name: Add route export
+Description: Extends the route menu with items to export them in GPX or TCX formats.
+Enabled: true
+
+Index: 191
+Name: Unlock subscription features
+Description: Unlocks "Routes", "Matched Runs" and "Segment Efforts".
+Enabled: true
+
+Index: 192
+Name: Remove Google Play Integrity check
+Description: Removes the Google Play Integrity check. With this it's possible to use SwissID on custom ROMS.If the device is rooted, root permissions must be hidden from the app.
+Enabled: true
+
+Index: 193
+Name: Hide ads
+Enabled: true
+
+Index: 194
+Name: Unlock themes
+Description: Unlocks all themes that are inaccessible until a certain level is reached.
+Enabled: true
+
+Index: 195
+Name: Feed filter
+Description: Removes ads, livestreams, stories, image videos, AI-generated postsand posts with a specific amount of views or likes from the feed.
+Enabled: true
+
+Index: 196
+Name: Remember clear display
+Description: Remembers the clear display configurations in between videos.
+Enabled: true
+
+Index: 197
+Name: Downloads
+Description: Removes download restrictions and changes the default path to download to.
+Enabled: true
+
+Index: 198
+Name: Show seekbar
+Description: Shows progress bar for all video.
+Enabled: true
+
+Index: 199
+Name: Playback speed
+Description: Enables the playback speed option for all videos and retains the speed configurations in between videos.
+Enabled: true
+
+Index: 200
+Name: Disable login requirement
+Enabled: true
+
+Index: 201
+Name: Fix Google login
+Description: Allows logging in with a Google account.
+Enabled: true
+
+Index: 202
+Name: Settings
+Description: Adds ReVanced settings to TikTok.
+Enabled: true
+
+Index: 203
+Name: Sanitize sharing links
+Description: Removes the tracking query parameters from shared links.
+Enabled: true
+
+Index: 204
+Name: SIM spoof
+Description: Spoofs the information which is retrieved from the SIM card.
+Enabled: false
+
+Index: 205
+Name: Disable telemetry
+Description: Disables ByteDance AppLog analytics, AppsFlyer attribution tracking, BDLocation background uploads, Firebase Analytics, and crash reporting.
+Enabled: true
+
+Index: 206
+Name: Unlock pro
+Enabled: true
+
+Index: 207
+Name: Show on lockscreen
+Description: Shows student id and student ticket on lockscreen.
+Enabled: true
+
+Index: 208
+Name: Disable dashboard ads
+Description: Disables ads in the dashboard.
+Enabled: true
+
+Index: 209
+Name: Disable Ad-Free Banner
+Description: Disables the banner with a frog, prompting you to buy Tumblr Ad-Free.
+Enabled: true
+
+Index: 210
+Name: Disable in-app update
+Description: Disables the in-app update check and update prompt.
+Enabled: true
+
+Index: 211
+Name: Disable blog notification reminder
+Description: Disables the reminder to enable notifications for blogs you visit.
+Enabled: true
+
+Index: 212
+Name: Disable gift message popup
+Description: Disables the popup suggesting to buy TumblrMart items for other people.
+Enabled: true
+
+Index: 213
+Name: Disable Tumblr TV
+Description: Removes the Tumblr TV navigation button from the bottom navigation bar.
+Enabled: true
+
+Index: 214
+Name: Fix old versions
+Description: Fixes old versions of the app (v33.2 and earlier) breaking due to Tumblr removing remnants of Tumblr Live from the API, which causes many requests to fail. This patch has no effect on newer versions of the app.
+Enabled: false
+
+Index: 215
+Name: Block audio ads
+Description: Blocks audio ads in streams and VODs.
+Enabled: true
+
+Index: 216
+Name: Block embedded ads
+Description: Blocks embedded stream ads using services like Luminous or PurpleAdBlocker.
+Enabled: true
+
+Index: 217
+Name: Block video ads
+Description: Blocks video ads in streams and VODs.
+Enabled: true
+
+Index: 218
+Name: Show deleted messages
+Description: Shows deleted chat messages behind a clickable spoiler.
+Enabled: true
+
+Index: 219
+Name: Auto claim channel points
+Description: Automatically claim Channel Points.
+Enabled: true
+
+Index: 220
+Name: Debug mode
+Description: Enables Twitch's internal debugging mode.
+Enabled: false
+
+Index: 221
+Name: Settings
+Description: Adds settings menu to Twitch.
+Enabled: true
+
+Index: 222
+Name: Unlock downloads
+Description: Unlocks the ability to download any video. GIFs can be downloaded via the menu on long press.
+Enabled: true
+
+Index: 223
+Name: Hide view count
+Description: Hides the view count of Posts.
+Enabled: false
+
+Index: 224
+Name: Dynamic color
+Description: Replaces the default X (Formerly Twitter) Blue with the user's Material You palette.
+Enabled: true
+
+Index: 225
+Name: Hide ads
+Enabled: true
+
+Index: 226
+Name: Hide recommended users
+Enabled: true
+
+Index: 227
+Name: Change link sharing domain
+Description: Replaces the domain name of shared links. Using this patch can prevent making posts that quote other posts.
+Enabled: false
+
+Index: 228
+Name: Sanitize sharing links
+Description: Removes the tracking query parameters from shared links.
+Enabled: true
+
+Index: 229
+Name: Hide Ads
+Description: Hides ad banners between chats.
+Enabled: true
+
+Index: 230
+Name: Hide navigation buttons
+Description: Permanently hides navigation bar buttons, such as Explore and Marketplace.
+Enabled: false
+
+Index: 231
+Name: Promo code unlock
+Description: Disables the validation of promo code. Any code will work to unlock all features.
+Enabled: true
+
+Index: 232
+Name: Hide ads
+Description: Hides all in-app ads.
+Enabled: true
+
+Index: 233
+Name: Hide ads
+Description: Adds options to remove general ads.
+Enabled: true
+
+Index: 234
+Name: Video ads
+Description: Adds an option to remove ads in the video player.
+Enabled: true
+
+Index: 235
+Name: Copy video URL
+Description: Adds options to display buttons in the video player to copy video URLs.
+Enabled: true
+
+Index: 236
+Name: Remove viewer discretion dialog
+Description: Adds an option to remove the dialog that appears when opening a video that has been age-restricted by accepting it automatically. This does not bypass the age restriction.
+Enabled: true
+
+Index: 237
+Name: Add more double tap to seek length options
+Enabled: true
+
+Index: 238
+Name: Disable double tap actions
+Description: Adds an option to disable player double tap gestures.
+Enabled: true
+
+Index: 239
+Name: Downloads
+Description: Adds support to download videos with an external downloader app using the in-app download button or a video player action button.
+Enabled: true
+
+Index: 240
+Name: Disable haptic feedback
+Description: Adds an option to disable haptic feedback in the player for various actions.
+Enabled: true
+
+Index: 241
+Name: Seekbar
+Description: Adds options to disable precise seeking when swiping up on the seekbar, slide to seek instead of playing at 2x speed when pressing and holding, tapping the player seekbar to seek, and hiding the video player seekbar.
+Enabled: true
+
+Index: 242
+Name: Swipe controls
+Description: Adds options to enable and configure volume and brightness swipe controls.
+Enabled: true
+
+Index: 243
+Name: Disable auto captions
+Description: Adds an option to disable captions from being automatically enabled.
+Enabled: true
+
+Index: 244
+Name: Custom branding
+Description: Adds options to change the app icon and app name. Branding cannot be changed for mounted (root) installations.
+Enabled: true
+
+Index: 245
+Name: Change header
+Description: Adds an option to change the header logo in the top left corner of the app.
+Enabled: true
+
+Index: 246
+Name: Hide video action buttons
+Description: Adds options to hide action buttons (such as the Download button) under videos. Patching version 20.21.37 or lower can hide more player button types.
+Enabled: true
+
+Index: 247
+Name: Navigation bar
+Description: Adds options to hide and change the bottom navigation bar (such as the Shorts button)  and the upper navigation toolbar. Patching version 20.21.37 and lower also adds a setting to use a wide searchbar.
+Enabled: true
+
+Index: 248
+Name: Hide player overlay buttons
+Description: Adds options to hide the player Cast, Autoplay, Captions, Previous & Next buttons, and the player control buttons background.
+Enabled: true
+
+Index: 249
+Name: Change form factor
+Description: Adds an option to change the UI appearance to a phone, tablet, or automotive device.
+Enabled: true
+
+Index: 250
+Name: Hide autoplay preview
+Description: Adds an option to hide the autoplay preview at the end of videos.
+Enabled: true
+
+Index: 251
+Name: Hide end screen cards
+Description: Adds an option to hide suggested video cards at the end of videos.
+Enabled: true
+
+Index: 252
+Name: Hide end screen suggested video
+Description: Adds an option to hide the suggested video at the end of videos.
+Enabled: true
+
+Index: 253
+Name: Disable fullscreen ambient mode
+Description: Adds an option to disable the ambient mode when in fullscreen.
+Enabled: true
+
+Index: 254
+Name: Hide layout components
+Description: Adds options to hide general layout components.
+Enabled: true
+
+Index: 255
+Name: Hide info cards
+Description: Adds an option to hide info cards that creators add in the video player.
+Enabled: true
+
+Index: 256
+Name: Hide player flyout menu items
+Description: Adds options to hide menu items that appear when pressing the gear icon in the video player.
+Enabled: true
+
+Index: 257
+Name: Disable player popup panels
+Description: Adds an option to disable panels (such as live chat) from opening automatically.
+Enabled: true
+
+Index: 258
+Name: Hide related video overlay
+Description: Adds an option to hide the related video overlay shown when swiping up in fullscreen.
+Enabled: true
+
+Index: 259
+Name: Disable rolling number animations
+Description: Adds an option to disable rolling number animations of video view count, user likes, and upload time.
+Enabled: true
+
+Index: 260
+Name: Hide Shorts components
+Description: Adds options to hide components related to Shorts. Patching version 20.21.37 or lower can hide more Shorts player button types.
+Enabled: true
+
+Index: 261
+Name: Disable sign in to TV popup
+Description: Adds an option to disable the popup asking to sign into a TV on the same local network.
+Enabled: true
+
+Index: 262
+Name: Hide timestamp
+Description: Adds an option to hide the timestamp in the bottom left of the video player.
+Enabled: true
+
+Index: 263
+Name: Miniplayer
+Description: Adds options to change the in-app minimized player.
+Enabled: true
+
+Index: 264
+Name: Exit fullscreen
+Description: Adds options to automatically exit fullscreen mode when a video reaches the end.
+Enabled: true
+
+Index: 265
+Name: Open videos fullscreen
+Description: Adds an option to open videos in full screen portrait mode.
+Enabled: true
+
+Index: 266
+Name: Custom player overlay opacity
+Description: Adds an option to change the opacity of the video player background when player controls are visible.
+Enabled: true
+
+Index: 267
+Name: Return YouTube Dislike
+Description: Adds an option to show the dislike count of videos with Return YouTube Dislike.
+Enabled: true
+
+Index: 268
+Name: Shorts autoplay
+Description: Adds options to automatically play the next Short.
+Enabled: true
+
+Index: 269
+Name: Dim Shorts overlay
+Description: Adds an option to reduce the brightness of the Shorts overlay to prevent OLED burn-in.
+Enabled: true
+
+Index: 270
+Name: Open Shorts in regular player
+Description: Adds options to open Shorts in the regular video player.
+Enabled: true
+
+Index: 271
+Name: SponsorBlock
+Description: Adds options to enable and configure SponsorBlock, which can skip undesired video segments such as sponsored content.
+Enabled: true
+
+Index: 272
+Name: Spoof app version
+Description: Adds an option to trick YouTube into thinking you are running an older version of the app. This can be used to restore old UI elements and features.
+Enabled: true
+
+Index: 273
+Name: Change start page
+Description: Adds an option to set which page the app opens in instead of the homepage.
+Enabled: true
+
+Index: 274
+Name: Disable resuming Shorts on startup
+Description: Adds an option to disable the Shorts player from resuming on app startup when Shorts were last being watched.
+Enabled: true
+
+Index: 275
+Name: Theme
+Description: Adds options for theming and applies a custom background theme (dark background theme defaults to pure black).
+Enabled: true
+
+Index: 276
+Name: Alternative thumbnails
+Description: Adds options to replace video thumbnails using the DeArrow API or image captures from the video.
+Enabled: true
+
+Index: 277
+Name: Bypass image region restrictions
+Description: Adds an option to use a different host for user avatar and channel images and can fix missing images that are blocked in some countries.
+Enabled: true
+
+Index: 278
+Name: Announcements
+Description: Adds an option to show announcements from ReVanced on app startup.
+Enabled: true
+
+Index: 279
+Name: Pause on audio interrupt
+Description: Adds an option to pause playback instead of lowering volume when other audio plays.
+Enabled: true
+
+Index: 280
+Name: Remove background playback restrictions
+Description: Removes restrictions on background playback, including playing kids videos in the background.
+Enabled: true
+
+Index: 281
+Name: Enable debugging
+Description: Adds options for debugging and exporting ReVanced logs to the clipboard.
+Enabled: true
+
+Index: 282
+Name: Spoof device dimensions
+Description: Adds an option to spoof the device dimensions which can unlock higher video qualities.
+Enabled: true
+
+Index: 283
+Name: Check watch history domain name resolution
+Description: Checks if the device DNS server is preventing user watch history from being saved.
+Enabled: true
+
+Index: 284
+Name: GmsCore support
+Description: Allows the app to work without root by using a different package name when patched using a GmsCore instead of Google Play Services.
+Enabled: true
+
+Index: 285
+Name: Bypass URL redirects
+Description: Adds an option to bypass URL redirects and open the original URL directly.
+Enabled: true
+
+Index: 286
+Name: Open links externally
+Description: Adds an option to always open links in your browser instead of the in-app browser.
+Enabled: true
+
+Index: 287
+Name: Loop video
+Description: Adds an option to loop videos and display loop video button in the video player.
+Enabled: true
+
+Index: 288
+Name: Sanitize sharing links
+Description: Removes the tracking query parameters from shared links.
+Enabled: true
+
+Index: 289
+Name: Spoof video streams
+Description: Adds options to spoof the client video streams to fix playback.
+Enabled: true
+
+Index: 290
+Name: Force original audio
+Description: Adds an option to always use the original audio track.
+Enabled: true
+
+Index: 291
+Name: Disable video codecs
+Description: Adds options to disable HDR and VP9 codecs.
+Enabled: true
+
+Index: 292
+Name: Video quality
+Description: Adds options to set default video qualities and always use the advanced video quality menu.
+Enabled: true
+
+Index: 293
+Name: Playback speed
+Description: Adds options to customize available playback speeds, set a default playback speed, and show a speed dialog button in the video player.
+Enabled: true
